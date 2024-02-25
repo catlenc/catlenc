@@ -1,5 +1,7 @@
 ### Hello! My Name is Catlen 👋
 
+I am a Software Engineering student at the University of Brasília, FGA Campus. My academic and professional journey has been characterized by commitment, adaptability, and a willingness to embrace new horizons.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BIoJN377lRwqGIXB1%2Bp49aQ%3D%3D)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/catlencleane)
 
@@ -15,7 +17,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-I am a Software Engineering student at the University of Brasília, FGA Campus. My academic and professional journey has been characterized by commitment, adaptability, and a willingness to embrace new horizons.
+
 
 ### Contacts:
 
